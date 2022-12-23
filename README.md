@@ -11,3 +11,4 @@ To inferense model use:
 ``` shell
 python detect.py --weights runs/train/exp4/weights/best.pt --conf 0.1 --source <path_to_your_folder_or_jpeg_file>
 ```
+Inference of model on our team members you can see in [this foldef](inference_on_our_team_members).
