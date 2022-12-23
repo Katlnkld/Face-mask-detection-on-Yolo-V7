@@ -5,7 +5,7 @@ Original model was provided by https://github.com/WongKinYiu/yolov7.
 
 Model was retrained on [this](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection?resource=download) dataset.
 
-Here you can find weights to the model.
+[Here](runs/train/exp4/weights/best.pt) you can find weights to the model.
 
 To inference model use:
 ``` shell
