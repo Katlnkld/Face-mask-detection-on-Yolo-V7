@@ -7,8 +7,8 @@ Model was retrained on [this](https://www.kaggle.com/datasets/andrewmvd/face-mas
 
 Here you can find weights to the model.
 
-To inferense model use:
+To inference model use:
 ``` shell
 python detect.py --weights runs/train/exp4/weights/best.pt --conf 0.1 --source <path_to_your_folder_or_jpeg_file>
 ```
-Inference of model on our team members you can see in [this foldef](inference_on_our_team_members).
+Inference of model on our team members you can see in [this folder](inference_on_our_team_members).
