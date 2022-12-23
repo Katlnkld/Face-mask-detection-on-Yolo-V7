@@ -11,4 +11,5 @@ To inference model use:
 ``` shell
 python detect.py --weights runs/train/exp4/weights/best.pt --conf 0.1 --source <path_to_your_folder_or_jpeg_file>
 ```
+The result will be saved [here](runs/detect)
 Inference of model on our team members you can see in [this folder](inference_on_our_team_members).
